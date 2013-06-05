@@ -1,0 +1,4 @@
+instagraph
+==========
+
+instagraph-ImagaMagick
